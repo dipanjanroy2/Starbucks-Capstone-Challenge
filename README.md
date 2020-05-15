@@ -1,6 +1,6 @@
-# Udacity Data Scientist Nanodegree Capstone Project
 
-This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
+
+# This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
 
 ## Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
 
@@ -40,7 +40,3 @@ As a brief summary of my findings:
 ### 3. File Descriptions
 This repo contains 4 files. The report of my project is called 'Starbucks Capstone Challenge - Using Starbucks app user data to predict effective offers.ipynb'. 
 The data used in the project is in the files portfolio.json, profile.json and transcript.json. 
-
-### 4. Licensing, Authors, Acknowledgements, etc.
-
-Data for coding project was provided by Udacity.
