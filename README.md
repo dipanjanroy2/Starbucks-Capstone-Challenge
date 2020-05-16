@@ -40,3 +40,5 @@ As a brief summary of my findings:
 ### 3. File Descriptions
 This repo contains 4 files. The report of my project is called 'Starbucks Capstone Challenge - Using Starbucks app user data to predict effective offers.ipynb'. 
 The data used in the project is in the files portfolio.json, profile.json and transcript.json. 
+#### 4.Result
+The main observations of the code are published here.
